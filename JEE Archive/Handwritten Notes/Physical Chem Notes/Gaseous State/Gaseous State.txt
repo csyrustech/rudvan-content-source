@@ -1,0 +1,40 @@
+
+
+piston massless hota to volume bhi to same aata
+
+by law of quipartition of energy ux =uy =uz
+this ecpression is applicable considering the entire translational KE
+
+Maxwell distribution is just application of KTG. All as per KTG
+
+When given only few molecules in container, then find urms, umps by basic definiton only. umean also calc from statistical approach or from maxwell ditri.
+
+collision cross section k andar kisi molecule ka center aa gya, then hit or else miss
+sigma - collision diameter = diameter of molecule itself
+
+agar intermolecular forces hi nahi hote to gas ko liquify hi nahi kr skte. all gases can be liquified hence no gas is ideal. He is the most difficult to liquify gas
+
+He and H2 always show +ve deviation at room temp or 0 deg C. They show -ve deviation at certain temp. conditions
+As temp. increases both +ve and -ve deviations are decreased (close to ideal)
+
+'A' molecule pe net drag force zero since wo beech m h in bulk of material. But 'B' molecule m backward drag hoga due to absence of gas molecules in front of it
+more is the no. of gas molcules, greater the drag and hence greater the pressure correction term
+
+Z vs P at high pressure is almost linear
+
+He and H2 m no. of polarisable e- kam h isliye intermolecular attractions kam. H2 ke polarisable e- thoude zyada polarisable h compare to H2. isliye intermolecular attraction more in H2
+
+b measure of repulsive forces as molecules are hard impenetrable spheres
+
+dietricii constants are not related to van der waals
+
+slope is maximum because on increase of pressure volume decreases. so dp/dv is always -ve except at critical point where it is 0. since 0>-ve, dp/dv is max at critical point
+critical temp. pe to kaafi saare points honge since it is an isotherm. hamare liye most imp point critical point hi hai
+Vm-b ^3 in deno.
+this gives more accurate value of size of molecule
+
+at critical point all 3 roots are equal since Vc is a distinct point
+
+this graph is as per van der waal equation. these phases are called meta stable phases. Van der waal eqn ke hisaab se ABCD reigon should be observed. but in reality only AB reigon and CD reigon is pbserved in gases. The BC reigon is not observed
+
+oil of cinnamon also absorbs ozone

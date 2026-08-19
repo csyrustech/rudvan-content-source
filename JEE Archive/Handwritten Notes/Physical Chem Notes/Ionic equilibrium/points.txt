@@ -1,0 +1,2 @@
+- if conc of common ion of a weak electrolyte is decreased by addition of common ion, then degree of disocciation increases.
+- greater the dielectric constant of solvent, more is the value of alpha
