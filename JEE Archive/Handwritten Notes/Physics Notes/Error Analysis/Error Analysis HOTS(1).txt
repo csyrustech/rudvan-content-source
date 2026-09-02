@@ -1,0 +1,10 @@
+- in any reading, the last digit is not known accurately. hence, the no. of significant figures=no. of digits known accurately + 1
+- when applying product or quotient rule for error propogation, R=A/B or R=AB; care must be taken that the rule is applicable only when A and B are independent. Incase they are dependent (say, resistances in parallel) then dont use this formula and instead go by differentiation.
+- differentiation will always help, however complex the relation may be. Even while differentiating, the sign is adjusted to obtain max possible error
+- for an expression dependent in multiple variables, manipulate the expression to obtain a expression with all independet terms separate and then differentiate
+- order of magnitude: write the no. in scientific notation (a.bcd * 10^z) 
+if 0<a<=5, the order of magnitude is z
+if 5<a<10, the order of magnitude is z+1
+note that order of magnitude depends on the units but no. of significant figures does not 
+- for expressions having dependent terms in numerator and denominator, one way is to manipulate the expression so that all independent terms separate and then apply differentiation; another method is to take log and differentiate and then manipulate the expression so that the differential terms are all separate and independent of each other, only the substitute values with sign
+- when the errors involved are large (say 30%, 20% etc.), these laws are not applicable and use basic mathematics
